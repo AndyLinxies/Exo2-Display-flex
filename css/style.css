@@ -1,0 +1,44 @@
+
+
+.un{
+    
+    background-color:orange ;
+    height: 70px;
+    text-align:center;
+    margin-bottom: 10px;
+}
+.Contdeux{
+    display: flex;
+    justify-content: center; /*D'abord center puis Space*/
+    justify-content: space-between;
+    text-align: center;
+}
+.deux{
+    width: 705px;
+    background-color: orange;
+    height: 70px;
+}
+.Conttrois{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+.trois{
+    width: 460px;
+    background-color: orange;
+    height: 100px;
+    text-align: center;
+    margin-top: 10px;
+}
+.Contdouze{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+}
+.douze{
+background-color: orange;
+width: 110px;
+text-align: center;
+height: 70px;
+}
